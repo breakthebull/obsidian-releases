@@ -2943,5 +2943,12 @@
     "repo": "breakthebull/cappuccino",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Mocha Latte Cafe 001",
+    "author": "breakthebull",
+    "repo": "breakthebull/mocha",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
